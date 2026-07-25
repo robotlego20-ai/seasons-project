@@ -32,8 +32,8 @@ function summer() {
 function autumn() {
   heading1.innerHTML = "Осінь";
   season.innerHTML = "Осінь — пора року між літом та зимою. Дні стають коротшими, листя змінює колір на золотий і червоний та починає опадати.";
-  heading1.style.color = "brown";
+  heading1.style.color = "darkred";
   season.style.color = "saddlebrown";
   document.body.style.backgroundColor = "wheat";
-  image.src = "https://images.unsplash.com/photo-1476820865390-c52aeea957d7?w=500";
+  image.src = "https://images.unsplash.com/photo-1477414348463-c0eb7f1359b6?w=800";
 }
