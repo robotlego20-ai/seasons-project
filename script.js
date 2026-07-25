@@ -35,5 +35,4 @@ function autumn() {
   heading1.style.color = "brown";
   season.style.color = "saddlebrown";
   document.body.style.backgroundColor = "wheat";
-  image.src = "https://images.unsplash.com/photo-1507181179412-1e89099e8f92?w=500";
-}
+  image.src = https://images.unsplash.com/photo-1476820865390-c52aeea957d7?w=500
